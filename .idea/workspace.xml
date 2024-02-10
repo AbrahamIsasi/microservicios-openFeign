@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73b1dc5f-35d5-425c-9db1-ea56ba64baaf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/account-eur-service/src/main/java/com/api/accounteurservice/repository/EurRepository.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/account-eur-service/src/main/java/com/api/accounteurservice/service/EurService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/account-eur-service/src/main/resources/application.properties" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/usuario-service/src/main/java/com/api/usuario_service/controller/UserController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/usuario-service/src/main/java/com/api/usuario_service/feignClients/EurFeignClient.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/usuario-service/src/main/java/com/api/usuario_service/service/UserService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/usuario-service/src/main/resources/application.properties" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2c4DWmsBT2x5FF7SiudV1qVfQ9K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/Desktop/microservicios-tutorial&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.UsuarioServiceApplication">
+    <configuration name="AccountEurServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.api.accounteurservice.AccountEurServiceApplication" />
+      <module name="account-eur-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.accounteurservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.api.usuario_service.UsuarioServiceApplication" />
+      <module name="usuario-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.usuario_service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UsuarioServiceApplication" />
+        <item itemvalue="Application.AccountEurServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73b1dc5f-35d5-425c-9db1-ea56ba64baaf" name="Changes" comment="" />
+      <created>1707361990329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707361990329</updated>
+    </task>
+    <servers />
+  </component>
+</project>
